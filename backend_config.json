@@ -1,0 +1,15 @@
+{
+    "graphs": [
+        {
+            "graph_names": [
+                "Inception_v3"
+            ],
+            "vtcm_mb": 2
+        }
+    ],
+    "devices": [
+        {
+            "htp_arch": "v79"
+        }
+    ]
+}
