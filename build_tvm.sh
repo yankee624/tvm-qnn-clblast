@@ -16,7 +16,7 @@ conda create -n tvm-build-venv -y -c conda-forge \
     python=3.11
 conda activate tvm-build-venv
 
-git clone --recursive https://github.com/apache/tvm tvm
+# git clone --recursive https://github.com/apache/tvm tvm
 
 cd tvm
 mkdir -p build && cd build
